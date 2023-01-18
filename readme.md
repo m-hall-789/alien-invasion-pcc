@@ -1,4 +1,4 @@
-# ALien Invasion
+# Alien Invasion :alien:
 ### from Python Crash Course - Eric Matthes
 
 ---
@@ -21,3 +21,7 @@ of lives you have, the shape and speed of the bullets, even the speed of score.
 I plan to return to this to make a few small adjustments. I would like to add
 sounds using the pygame module's inbuilt functionality, and also to keep the top
 score consistently checked on different plays.
+
+---
+
+Enjoy! :+1:
